@@ -16,14 +16,6 @@
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/felixhoffmnn" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="felixhoffmnn"
-      height="21"
-      width="28"
-  /></a>
   <a href="https://twitter.com/felixhoffmnn" target="blank"
     ><img
       align="center"
@@ -52,16 +44,13 @@
 
 <h4 align="left">Preferred Languages and Tools:</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
       height="25"
       width="25"
     />
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="25" height="25" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
@@ -71,10 +60,10 @@
       width="25"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
       height="25"
       width="25"
     />
@@ -121,16 +110,3 @@
     />
   </a>
 </p>
-
-<!-- <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=felixhoffmnn&show_icons=true&locale=en"
-    alt="felixhoffmnn"
-  />
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=felixhoffmnn&show_icons=true&locale=en&layout=compact"
-    alt="felixhoffmnn"
-  />
-</p> -->

@@ -14,11 +14,11 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          working-directory: cv
+          working_directory: ./cv
           root_file: cv_felix_hoffmann.tex
           args: -pdf -synctex=1 -shell-escape -interaction=nonstopmode -output-directory=out
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:
           name: PDF
-          path: cd/out/cv_felix_hoffmann.pdf
+          path: cv/out/cv_felix_hoffmann.pdf
