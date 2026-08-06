@@ -1,5 +1,7 @@
-<h1 align="left">Hi, I'm Felix</h1>
+**Hi, I'm Felix**
 
-- You can take a look at my projects at [felix-hoffmann.dev](https://felix-hoffmann.dev/) or here on [GitHub](https://github.com/felixhoffmnn)
-- How to reach me: post@felix-hoffmann.dev
-- For more about my experiences visit [https://www.linkedin.com/in/felix-hoffmnn/](https://www.linkedin.com/in/felix-hoffmnn/)
+I'm a Data Engineering master's student at [HPI](https://hpi.de/en/) and work at [QuantumBasel](https://www.quantumbasel.com/). I earned my bachelor's degree in Computer Science at [DHBW Stuttgart](https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/technik/informatik/). I also volunteer as a software developer at [Selfnet e.V.](https://selfnet.de/).
+
+I work on data and backend systems, web interfaces, developer tools, and internet measurement.
+
+[Website](https://felix-hoffmann.dev/) | [Email](mailto:post@felix-hoffmann.dev) | [LinkedIn](https://www.linkedin.com/in/felix-hoffmnn/)
